@@ -19,13 +19,19 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="mailto:your-rojakshsharma987@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/rojaksh-sharma-54a128231/?original_referer=https%3A%2F%2Fwww.google.com%2F)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="[https://leetcode.com/your-leetcode-username/](https://leetcode.com/u/rojaksh21/)">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
+  <a href="mailto:rojakshsharma987@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/rojaksh-sharma-54a128231/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://leetcode.com/u/rojaksh21/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
+
 
 ---
 
